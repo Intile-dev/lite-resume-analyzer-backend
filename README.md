@@ -12,4 +12,6 @@ how to set up backend:
 
 2-Install the libraries
 
-3-run main.py
+4-Get Ollama's mistral model and run it
+
+5-run main.py
